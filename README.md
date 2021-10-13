@@ -12,4 +12,4 @@ There are 10 datasets:
 6.Webtoon ratings dataset
 7.Anime ratings Dataset
 8.Mall dataset
-9.Jeopardy question ansswer dataset
+9.Jeopardy question answer dataset
