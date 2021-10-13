@@ -9,8 +9,7 @@ There are 10 datasets:
   a. Marvel movie Dataset
   b.Marvel vs DC 
 
-6.IMDB dataset
-7.Webtoon ratings dataset
-8.Anime ratings Dataset
-9.Mall dataset
-10.Jeopardy question ansswer dataset
+6.Webtoon ratings dataset
+7.Anime ratings Dataset
+8.Mall dataset
+9.Jeopardy question ansswer dataset
